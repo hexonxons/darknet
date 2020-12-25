@@ -1,3 +1,9 @@
+darknet (0.0.0~20201225132800) focal; urgency=medium
+
+  * Build for cuda 11.1
+
+ -- Alexander Rozhdestvenskii <hexonxons@gmail.com>  Fri, 25 Dec 2020 13:28:00 +0300
+
 darknet (0.0.0~20201112164305-9dc897d) focal; urgency=medium
 
   * Initial release
